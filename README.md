@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="250" height="141" alt="noli" src="https://github.com/user-attachments/assets/b8ba1700-78f1-4c63-a23d-7c2b9d3055d4" />
+<img width="250" height="141" alt="noli" src="https://github.com/user-attachments/assets/9fdcf72d-f9ce-42df-8193-16594fbd1415" />
+
 
 @  C+H is okay !   ノ  (⸝⸝๑﹏๑⸝⸝)
 
